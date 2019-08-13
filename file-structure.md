@@ -2,10 +2,10 @@
 
 ## Project structure
 
-Under the `next/`folder you will find the project folder structure.
+Under the `able-pro/`folder you will find the project folder structure.
 
 ```text
-next/
+able-pro/
 ├── .gitignore
 ├── package.json            -> Package json file.
 ├── README.md               -> Creat react app Readme file
@@ -37,7 +37,7 @@ next/
 
 ## SCSS structure
 
-Under the `next/assets/scss/`folder you will find the following folder structure.
+Under the `able-pro/assets/scss/`folder you will find the following folder structure.
 
 ```text
 SCSS/
