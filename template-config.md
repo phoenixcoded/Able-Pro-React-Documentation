@@ -23,7 +23,7 @@ You can edit this file at **`[ ../src/app-config.ts ]`**
 ```javascript
 export default {
     defaultPath: 'sample-page',
-    basename: '/react/default', // only at build time to set, like //next/react/
+    basename: '/react/default', // only at build time to set, like //able-pro/react/
     layout: 'vertical', // vertical, horizontal
     subLayout: '', // horizontal-2
     collapseMenu: false, // mini-menu

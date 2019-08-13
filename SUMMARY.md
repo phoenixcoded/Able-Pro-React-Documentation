@@ -9,7 +9,6 @@
 * [Code Splitting](code-splitting.md)
 * [Template Configuration](template-config.md)
 * [Layouts Options](layouts-options.md)
-* [Support](support.md)
-* [Hire Us](hire-us.md)
 * [Changelog](changelog.md)
+* [Support](support.md)
 
