@@ -21,7 +21,7 @@ The project was built assuming it is hosted at the server root folder of domain/
 
 You can control this with the homepage field in your `package.json`. To deploy build for sub-folder i.e `http://example.com/folder-name/` than `"homepage" : "http://example.com/folder-name/".`
 
-You also need to set base-name `<BrowserRouter basename="folder-name">` in `router.js` file.
+You also need to set base-name `basename="folder-name"` in **`config.js`** file.
 {% endhint %}
 
 You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
