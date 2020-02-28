@@ -26,7 +26,7 @@ We’ve followed best industry standards to make our product easy, fast & highly
 
 * Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
 * SASS Powered
-* [Create React App](https://github.com/facebook/create-react-app) 
+* [Create React App](https://github.com/facebook/create-react-app) \(v16.13.0\)
 * [Redux](https://redux.js.org/)
 * [React Router](https://github.com/ReactTraining/react-router) 
 
