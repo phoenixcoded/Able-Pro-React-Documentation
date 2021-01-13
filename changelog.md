@@ -10,7 +10,7 @@ description: Developed by  Phoenixcoded
 * Setup combineReducers with redux
 * Datatable: bug fixed
 
-## v1.0.0 - 22 Jab 2017
+## v1.0.0 - 22 Jan 2017
 
 * Initial release.
 
