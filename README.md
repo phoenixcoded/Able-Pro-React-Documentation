@@ -19,8 +19,9 @@ We’ve followed best industry standards to make our product easy, fast & highly
 * Workable Application
 * Unlimited Color Options
 * Live Customize
-* FREE Lifetime Updates
+* FREE Lifetime Updates 
 * 6 months of free support included
+* Combine Reducers
 
 ## Technical Specification  \(Credits 🙏\)
 

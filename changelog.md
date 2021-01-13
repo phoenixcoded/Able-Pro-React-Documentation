@@ -4,12 +4,13 @@ description: Developed by  Phoenixcoded
 
 # Changelog
 
-## v8.0.2 - 28 Feb 2020
+## v8.0.3 - 13 Jan 2021
 
-* Upgrade to React 16.13.0
-* Remove **react-trello** third party module
+* Helpdesk - bug fixed
+* Setup combineReducers with redux
+* Datatable: bug fixed
 
-## v1.0.0 - 13-08-2019
+## v1.0.0 - 22 Jab 2017
 
 * Initial release.
 

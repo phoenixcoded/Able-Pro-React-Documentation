@@ -26,9 +26,9 @@ able-pro/
     ├── components/         -> Template custom components
     ├── containers/         -> Data fetching and then renders its corresponding sub-component
     ├── layouts/            -> Layout components & routers
-    ├── redux/              -> Redux App actions, reducers, storeConfig & types
+    ├── store    /              -> Redux App actions, reducers, storeConfig & types
     ├── utiliy/
-    ├── views/              -> View files for all pages
+    ├── Demo/              -> View files for all pages
     ├── index.js            -> Application root js file
     ├── index.scss          -> Application main scss file
     ├── registerServiceWorker.js
