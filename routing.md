@@ -12,8 +12,7 @@ You can use the below explanation to add/remove menu routs and their menu items.
 
 Open `able-pro/src/app/router.js` You will find the below example code. In below code we have show how you can add new page route.
 
-{% code-tabs %}
-{% code-tabs-item title="router.js" %}
+{% code title="router.js" %}
 ```javascript
 import React from 'react';
 import $ from 'jquery';
@@ -30,8 +29,7 @@ const routes = [
 
 export default routes;
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Add menu item
 
@@ -39,8 +37,7 @@ To add menu items you can use `able-pro/src/menu-items.js` file. Below code we h
 
 You can use `MenuSingle`for single menu item and `MultiMenu` for multiple menu items. You can also add badge to menu by using `badgeText`option and set badge color by using `badgeColor`Option.
 
-{% code-tabs %}
-{% code-tabs-item title="menus.js" %}
+{% code title="menus.js" %}
 ```javascript
 export default {
     items: [
@@ -109,6 +106,4 @@ export default {
     ]
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
+{% endcode %}
